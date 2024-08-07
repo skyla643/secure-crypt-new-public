@@ -1,21 +1,21 @@
-## Setting Email Credentials
+Setting Email Credentials
 
 You might have questions regarding this small piece of code that could throw you off if you're not familiar with it:
 
-```python
-# Set email credentials
+python
+Set email credentials
 sender_email = # your email will go here
 app_password = # your app password would go here
-```
 
-### Inputting Your Email
+
+Inputting Your Email
 
 - **Sender Email:** 
   - `sender_email = "your_email@gmail.com"`
   - Simply replace `"your_email@gmail.com"` with your actual Gmail address.
   - Note: This script is currently set up for Gmail. If you want to use another email service, you'll need to modify the SMTP server settings accordingly.
 
-### Avoiding Spam Folder
+Avoiding Spam Folder
 
 - **Spam Warning:**
   - The email might go to the spam folder initially. 
