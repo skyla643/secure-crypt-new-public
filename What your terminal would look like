@@ -1,0 +1,13 @@
+"Your terminal file path and log":
+
+Enter recipient email: your email <--- you would type it in here!
+Enter your message: hello this is a test. <----- you would write your message here
+Encrypted message saved to 'encrypted_message.txt'. <----will automatically make this after you write your message. 
+Email sent successfully! <-------- check the confermation if the email you messaged recived the email. 
+Decrypted message to verify:  hello this is a test. <------ will tell you what your message is again, bassically will tell you what the message will look like after decrypted. 
+
+
+
+"Your terminal file path and log":
+hello this is a test. <---------This is what the decryptyourmessage.py file will put out when you enter the encrypted message and key in the decryptyourmessage.py code! 
+
