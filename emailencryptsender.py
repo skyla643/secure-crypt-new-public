@@ -50,8 +50,8 @@ def decrypt_message(encrypted_message, key):
 def send_email(recipient_email, encrypted_message):
     try:
         # Set email credentials
-        sender_email = "usergeneral68@gmail.com"
-        app_password = "pzjyepxn icwxwola"
+        sender_email = # your email will go here
+        app_password = # you app password would go here
 
         # Set up the server (example with Gmail SMTP server)
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
