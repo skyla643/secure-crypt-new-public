@@ -241,7 +241,7 @@ Decrypted message to verify:  hello this is a test. <------ will tell you what y
 hello this is a test. <---------This is what the decryptyourmessage.py file will put out when you enter the encrypted message and key in the decryptyourmessage.py code!
 ```
 
-# README.md
+# How to set up the "back machine" 
 
 ## Setting Email Credentials
 
@@ -328,3 +328,5 @@ This should make the code snippet a bit clearer and more manageable.
 ### Personal Note
 
 This explanation is meant to make the concept of App Passwords as clear as possible. Sometimes, setting up secure communication can feel more complicated than a tough relationship, but with the right steps, it becomes straightforward and secure.
+
+- With love SMRCCC3301
